@@ -1,6 +1,6 @@
 [
     {
-        "caption": "Django DocsSearch",
-        "command": "django_docs_search"
+        "caption": "GrepCode Search",
+        "command": "grep_code_search"
     }
 ]

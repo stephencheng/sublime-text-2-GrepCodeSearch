@@ -1,33 +1,18 @@
-# Django DocsSearch
+# Search on grepcode.com
 
-Поиск Django-документации по выделенному слову
+pikachu
+https://github.com/topikachu/sublime-text-2-GrepCodeSearch
 
-## Установка
+## grepcode search
 
-Склонируйте или скачайте репозиторий в папку Packages от Sublime Text 2. 
-Переименуйте скачанную папку в 
-    Django-DocsSearch
 
-### Установка с использованием Sublime Package Control
+    GrepCode-Search
 
-    1. Установить Sublime Package Control из http://wbond.net/sublime_packages/package_control/installation, выполнив указанную команду в консоли (ctrl+`), если он еще не установлен;
-    2. Нажать "ctrl+shift+p" ("command+shift+p" на mac);
-    3. Ввести "Package Control install";
-    4. Ввести "Django-DocsSearch".
+### Package Control
 
-### Установка в Linux
+    1. Install Sublime Package Control from http://wbond.net/sublime_packages/package_control/installationесли он еще не установлен;
+    2. Use "ctrl+shift+p" ("command+shift+p" at mac);
+    3. Select "Package Control install";
+    4. Select "GrepCode-Search".
 
-    $ cd ~/.config/sublime-text-2/Packages/
-    $ git clone git://github.com/saippuakauppias/sublime-text-2-Django-DocsSearch.git Django-DocsSearch
 
-### Установка в OSX
-
-    Будет написана позже.
-
-### Установка в Windows
-
-    Будет написана позже.
-
-## Использование
-
-Выделите код для поиска или поставьте рядом с ним курсор и нажмите SHIFT+ALT+D.
